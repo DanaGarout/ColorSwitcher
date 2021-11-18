@@ -36,6 +36,9 @@
     background-color: #fff;
     z-index: 1000;
 }
+.color-switcher.active{
+    right: 0;
+}
 .color-switcher .switcher-btn{
     position: absolute;
     top: 0;
